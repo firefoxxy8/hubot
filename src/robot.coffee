@@ -1,7 +1,7 @@
 Fs             = require 'fs'
 Log            = require 'log'
 Path           = require 'path'
-HttpClient     = require 'scoped-http-client'
+HttpClient     = require 'corp-scoped-http-client'
 {EventEmitter} = require 'events'
 
 User = require './user'

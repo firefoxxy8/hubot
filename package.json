@@ -26,7 +26,7 @@
   "dependencies": {
     "coffee-script":      "1.6.3",
     "optparse":           "1.0.4",
-    "corp-scoped-http-client": "https://github.com/mcjffld/node-scoped-http-client.git",
+    "corp-scoped-http-client": "git+https://github.com/mcjffld/node-scoped-http-client.git",
     "log":                "1.4.0",
     "express":            "3.3.4"
   },
